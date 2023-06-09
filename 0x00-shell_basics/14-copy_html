@@ -1,2 +1,2 @@
 #!/bin/bash
-cpcp -m -um ./tmp/*.html ..
+cp -um*.html ../
