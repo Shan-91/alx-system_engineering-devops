@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -um /tmp *.html/
+-u -m -um cp cp  /tmp/ *.html/
