@@ -1,1 +1,1 @@
-display content of 2 files
+display last 10 lines of /etc/passwd
